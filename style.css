@@ -1,0 +1,64 @@
+@font-face {
+    font-family: TitleFont ;
+    src : url('Stainy_PersonalUseOnly.ttf') ;  
+}
+
+@font-face {
+    font-family: Bebas ; 
+    src : url('BebasNeue-Regular.ttf') ; 
+}
+
+.icon-nav{
+    font-size: 1em; 
+    color: black ; 
+}
+
+#between-element {
+    width : 15rem ; 
+}
+
+.title{
+    background-color : #90CAF9 ; 
+    max-height : 10rem ; 
+    text-align: center ; 
+}
+
+#title-box {
+    border : double ; 
+    border-color: #90CAF9 ; 
+    text-align: center ; 
+    padding : 10px ; 
+}
+
+div.middle-line-text {
+    width: 100% ; 
+    text-align: center ; 
+    border-top: 0.5px solid #000;
+    border-color :  rgb(162, 204, 238) ; 
+    line-height: 0.1em ; 
+    margin:10px 0 20px;
+}
+
+span.middle-line-text {
+    background-color:  #ffffff ;
+    color : #90CAF9 ; 
+}
+
+li{
+    font-family: Karla ; 
+}
+
+footer {
+    background-color: #424242 ; 
+    padding: 2rem ; 
+}
+
+img {
+    max-width: 100% ;
+    max-height: 100% ;  
+}
+
+#personal-text {
+    margin-top : 1rem ; 
+    font-family: Karla ;
+}
